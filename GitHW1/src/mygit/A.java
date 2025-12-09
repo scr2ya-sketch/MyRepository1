@@ -7,7 +7,7 @@ public class A {
 		System.out.println("A is an apple");
 		C apple = new C();
 		apple.sayGit("Apple");
-		
+		System.out.println("I made a Bob branch.");
 	}
 
 }
